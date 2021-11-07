@@ -1,2 +1,2 @@
 # MachineLearning
-MachineLearningPractice
+Contains Machine Learning Practice Sets
